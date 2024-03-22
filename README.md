@@ -1,5 +1,5 @@
 # 💫 Hello I'm Nyasha :
-Self-taught software engineer sharing my learnings in tech.<br><br>Currently honing my skills in Python.<br><br>Follow along with my journey on github and linkedIn where I talk about the ups and downs of self-learning and how to overcome. 
+Self-taught software engineer sharing my learnings in tech.<br><br>Currently honing my skills in Python.<br><br>Follow along with my journey on github and linkedIn.
 
 
 # 💻 Tech Stack:
