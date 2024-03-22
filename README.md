@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm Nyasha<br><br>Self-taught software engineer sharing my learnings in tech.<br><br>Currently honing my skills in Python.<br><br>Follow along with my journey on linkedin where I talk about the ups and downs of self-learning and how to overcome. <br><br>linkedin: https://www.linkedin.com/groups/12121940/<br>
+Hello, I'm Nyasha<br><br>Self-taught software engineer sharing my learnings in tech.<br><br>Currently honing my skills in Python.<br><br>Follow along with my journey on linkedin where I talk about the ups and downs of self-learning and how to overcome. 
 
 
 # 💻 Tech Stack:
@@ -12,7 +12,7 @@ Hello, I'm Nyasha<br><br>Self-taught software engineer sharing my learnings in t
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Nyasha Mawoko) 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### ✍️![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
